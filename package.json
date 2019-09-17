@@ -1,5 +1,5 @@
 {
-  "name": "hapi-idempotency-layer",
+  "name": "hapi-idempotency",
   "version": "0.0.1",
   "description": "an idempotency layer that will be used to make all POST and PUT requested idempotent",
   "main": "index.js",
