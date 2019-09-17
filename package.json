@@ -1,0 +1,15 @@
+{
+  "name": "hapi-idempotency-layer",
+  "version": "0.0.1",
+  "description": "an idempotency layer that will be used to make all POST and PUT requested idempotent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "redis": "^2.8.0"
+  }
+}
